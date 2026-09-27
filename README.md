@@ -15,7 +15,7 @@ Many teachers assigned to tribal-majority schools in Jharkhand speak only Hindi,
 - **Flashcards mode** — a student-facing practice screen cycling through vocabulary with Hindi, English, and on-demand Santali translation
 - **Teacher/Student role split** — one app, two modes, chosen from a simple role picker
 
-## Product vision (design prototype, not yet built)
+## Product vision (designed prototype)
 
 The team has designed a fuller product experience — shown in mockups, not yet implemented in code — including:
 - Live classroom broadcast with a dual-pane teacher/student view and a broadcast history log
